@@ -49,7 +49,6 @@ public class TwitterControllerTest {
 		assertEquals("No Tweet", "No tweet is available with this Id", message);
 	}
 
-
 	@Test
 	public void testDeleteTweeteByID() {
 		twitterDemo = new TwitterDemoOperations();
