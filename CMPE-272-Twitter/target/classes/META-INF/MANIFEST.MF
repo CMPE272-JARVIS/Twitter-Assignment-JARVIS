@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: skuma
+Build-Jdk: 11.0.8
+Implementation-Title: CMPE-272-Twitter
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.sjsu
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/CMPE-272-Twitt
+ er/
+Created-By: Maven Integration for Eclipse
+
