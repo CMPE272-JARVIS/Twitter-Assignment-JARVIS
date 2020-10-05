@@ -13,7 +13,7 @@ import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 import com.sjsu.TwitterDemoOperations;
 
 /**
- * This class acts like a Bootstrap for the Spring boot application.
+ * Test class for TwitterDemoOperations.java
  *
  * @author Mamatha Guntu, Srujana Koripalli
  * 
