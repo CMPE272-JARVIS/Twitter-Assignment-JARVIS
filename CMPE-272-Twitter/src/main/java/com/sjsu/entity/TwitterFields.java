@@ -1,6 +1,6 @@
 package com.sjsu.entity;
 /**
-* This class acts like a Bootstrap for the Spring boot application.
+* Entity class
 *
 * @author Prajakta Joshi
 * 
