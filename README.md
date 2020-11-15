@@ -6,7 +6,7 @@ Prerequisites
 	-Create a react project 
 Commands:
 	npx create-react-app .
-	npm install
+	npm install (to install node modules)
 
 	npm install react-bootstrap bootstrap
 	npm install @material-ui      
