@@ -15,4 +15,4 @@ Commands:
 	npm install --save react-router-dom
 	npm install axios
 	
-Run command 'npm start' to start the application.
+Run 'npm start' to start the application.
